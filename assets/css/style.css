@@ -1,0 +1,8 @@
+body{
+
+    
+}
+.main {padding-top: 100px;  background: linear-gradient(135deg, orange 60%, cyan);height: 100vh;width: 100%;}
+.principale{background: linear-gradient(135deg, orange 60%, cyan);height: 100vh;width: 100%;}
+.form {width: 500px; background-color: white; padding: 30px;border-radius: 10px;}
+form>.button{width: 100%;background-color:rgb(97,220,157);color: white;}
